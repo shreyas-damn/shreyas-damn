@@ -5,3 +5,8 @@
 💻 Exploring Digital Design, Verilog, LTspice & System Architecture  
 
 
+## 🔧 Core Focus Areas
+- **RTL design & verification (Verilog)
+- **EDA Tools**
+- **Digital Logic & Computer Architecture**
+
