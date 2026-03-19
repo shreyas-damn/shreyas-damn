@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shreyas
+# Watashi wa, Shreyas des
 
 🎓 Electronics & Telecommunications Undergraduate  
 ⚡ Interested in Analog Circuit Design, VLSI & Embedded Systems  
