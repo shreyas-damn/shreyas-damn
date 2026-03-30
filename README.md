@@ -5,10 +5,11 @@
 💻 Exploring Digital Design, Verilog, LTspice & System Architecture  
 
 
-## 🔧 Core Focus Areas
+## Watashi no interests
 - **RTL design & verification (Verilog)**
 - **EDA Tools**
 - **PCB Design**
 
+## 
   
 
